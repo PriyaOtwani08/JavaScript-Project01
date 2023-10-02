@@ -1,0 +1,2 @@
+# JavaScript-Project01
+"""IF YOU WANT TO SHINE LIKE A SUN FIRST BURN LIKE A SUN"""
